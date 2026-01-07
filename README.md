@@ -12,7 +12,7 @@ Welcome to my data science portfolio! Below are details from my latest projects.
 - Interpreted outputs for business application
 
 ### Overview
-The object was to extract and prepare a time series dataset, create a benchmark time series forecast, and evaluate this against a SARIMA model to assess predictive performance and real-world use. Please note, the data has been masked to maintain privacy.
+The objective was to extract and prepare a time series dataset, create a benchmark time series forecast, and evaluate this against a SARIMA model to assess predictive performance and real-world use. Please note, the data has been masked to maintain privacy.
 
 ### Methodology
 1. Data cleansing (date parsing, removal of missing values)
@@ -30,4 +30,9 @@ The full analysis is documented in the following Jupyter notebook.
 - Focussed on data quality, modelling and visualisation
 - Built using Power BI
 
-
+### Data Source
+The dataset used in this project was obtained from Kaggle:
+- **Title** Formula 1 Races Data from 2000-2025
+- **Author** Syed Zubair Ahmed
+- **Source** 🔗[Kaggle](https://www.kaggle.com/datasets/syedzubairahmed0022/formula-1-races-data-from-2000-2025)
+- **Licence** [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
