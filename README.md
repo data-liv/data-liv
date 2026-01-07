@@ -22,6 +22,9 @@ The object was to extract and prepare a time series dataset, create a benchmark 
 5. Modelling predictions (SARIMA)
 6. Evaluation (RMSE and MAPE)
 
+The full analysis is documented in the Jupyter notebook below.
+🔗[View analysis]
+
 ## Formula 1 Power BI Dashboard 🏎️
 - Designed an interactive dashboard exploring Formula 1 championship data
 - Focussed on data quality, modelling and visualisation
