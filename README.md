@@ -1,6 +1,5 @@
-# Work Evaluation Project
+Hello! 
 
-# Public Project
+![Portfolio image.png]
 
-## Histogram
-![Histogram](images/histogram-example-2.png)
+
